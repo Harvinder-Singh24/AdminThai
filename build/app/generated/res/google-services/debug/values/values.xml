@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">155812127703-jb7b3ocv935hr3aq9febfso3gk7pke85.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">155812127703</string>
+    <string name="google_api_key" translatable="false">AIzaSyDXnCPJ_oGrneOyuLgaWei9KKimV5vp9X4</string>
+    <string name="google_app_id" translatable="false">1:155812127703:android:19f394b42be9b670732192</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDXnCPJ_oGrneOyuLgaWei9KKimV5vp9X4</string>
+    <string name="google_storage_bucket" translatable="false">thaimeet-d3ddb.appspot.com</string>
+    <string name="project_id" translatable="false">thaimeet-d3ddb</string>
+</resources>

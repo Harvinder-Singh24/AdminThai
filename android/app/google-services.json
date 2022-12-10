@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "155812127703",
+    "project_id": "thaimeet-d3ddb",
+    "storage_bucket": "thaimeet-d3ddb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155812127703:android:19f394b42be9b670732192",
+        "android_client_info": {
+          "package_name": "com.example.adminthaimeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155812127703-jb7b3ocv935hr3aq9febfso3gk7pke85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXnCPJ_oGrneOyuLgaWei9KKimV5vp9X4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155812127703-jb7b3ocv935hr3aq9febfso3gk7pke85.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "155812127703-900sorj3v9pck0oreifvmgjbml84pglf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.thaimeet"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155812127703:android:b5e8be794341a639732192",
+        "android_client_info": {
+          "package_name": "com.example.thaimeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155812127703-qrvf7219orn4d0c2gmcq4jjqk2rc00q6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thaimeet",
+            "certificate_hash": "ecaa36ce78595468c7ec03bb4d3e7ee0f3d571c1"
+          }
+        },
+        {
+          "client_id": "155812127703-jb7b3ocv935hr3aq9febfso3gk7pke85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXnCPJ_oGrneOyuLgaWei9KKimV5vp9X4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155812127703-jb7b3ocv935hr3aq9febfso3gk7pke85.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "155812127703-900sorj3v9pck0oreifvmgjbml84pglf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.thaimeet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
